@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @Penguinmaster2001
-- 👀 I’m interested in math, physics, and art
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me penguinmillion@gmail.com
+# Hey, I'm Anthony Cieri
+He/Him
+
+- ### **Email**: [penguinmillion@gmail.com](mailto:penguinmillion@gmail.com)
+- ### **Discord**: [Penguinmaster2001](discordapp.com/users/569956961039286284)
+- ### **LinkedIn**: [Anthony Cieri](www.linkedin.com/in/anthony-cieri/)

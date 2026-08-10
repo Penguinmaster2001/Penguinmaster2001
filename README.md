@@ -6,8 +6,8 @@ I build software at the intersection of math and systems like simulations, rende
 
 ## Experience
 
-- Current: Microsoft Xbox AI (Summer 2026)
 - Prev:
+  - Microsoft Xbox Personalization (Summer 2026)
   - Nintendo Technology Development (Summer 2025)
   - UVic AR Lab (Fall term 2024)
 
